@@ -9,7 +9,7 @@ Practic tool for Asset Discovery.
 
 ## Installing
 
-  https://github.com/DERANCIL/Assetcu.git
+ git clone https://github.com/DERANCIL/Assetcu.git
   
 cd Assetcu
 
