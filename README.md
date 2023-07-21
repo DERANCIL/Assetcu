@@ -1,0 +1,2 @@
+# Assetcu
+Nintendo nolur davalama
