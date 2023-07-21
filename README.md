@@ -3,10 +3,9 @@ Nintendo nolur davalama
 
 
 
-# Proje Başlığı
+# Project 
 
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
-
+Practic tool for Asset Discovery.
 
 ## Installing
 
@@ -18,8 +17,12 @@ cd Assetcu
  chmod +x ./script.sh
 
 
-Usage ---- python3 Assetcu2.py -d example.com
+## Usage
+
+  Usage ---- python3 Assetcu2.py -d example.com
+  
 Or
+
 Usage ---- python3 Assetcu2.py -l example.txt
 
 
@@ -37,3 +40,4 @@ Usage ---- python3 Assetcu2.py -l example.txt
               ⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
               ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+                  PİKACHU , I CHOOSE YOU 
