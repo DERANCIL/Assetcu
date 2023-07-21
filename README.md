@@ -12,7 +12,7 @@ TOOLS
 - nmap
 
 
-# Project 
+# Installing 
 
 Practic tool for Asset Discovery.
 
