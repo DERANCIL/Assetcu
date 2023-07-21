@@ -7,7 +7,7 @@ Nintendo nolur davalama
 
 Practic tool for Asset Discovery.
 
-## Installing
+```## Installing
 
  git clone https://github.com/DERANCIL/Assetcu.git
   
@@ -16,7 +16,7 @@ cd Assetcu
 
  chmod +x ./script.sh
 
-
+```
 ## Usage
 
   Usage ---- python3 Assetcu2.py -d example.com
