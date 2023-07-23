@@ -24,6 +24,7 @@ Practic tool for Asset Discovery.
 
  chmod +x ./script.sh
 
+ bash script.sh
 ```
 ## Usage
 ```
